@@ -4,7 +4,7 @@
 2. Big Mouse
 3. SSD
 ![Alt text](<../../../Fiction Summit 1250x250.png>)
-
+![Alt text](../../../2.png)
 # Getting Started
 
 This section explains the Fiction Editor interface, menu items, and basic concepts like Scenes and Entities.
